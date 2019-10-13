@@ -5,8 +5,8 @@
 In this project, we build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. 
 
 Following implementation looks at any image, detect faces (using haar cascades), and predicts the locations of facial keypoints on each face; examples of these keypoints are displayed below <br/>
-![Obamas][./images/obamas.jpg]<br/>
-![Facial Keypoint Detection][./images/output_keypt_detector.png]<br/>
+![Obamas][images/obamas.jpg]<br/>
+![Facial Keypoint Detection][images/output_keypt_detector.png]<br/>
 
 The project will be broken up into a few main parts in four Python notebooks, 
 
